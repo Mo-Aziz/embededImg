@@ -1,2 +1,0 @@
-# embededImg
-Created with CodeSandbox
